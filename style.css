@@ -1,0 +1,19 @@
+.container{
+	width: 300px auto;
+	text-align: center;
+	margin: 110px auto;
+}
+
+.hexBtn{
+	border-radius: 4px;
+	color: #999;
+	height: 35px;
+	/* outline-color: rosybrown; */
+	outline: none;
+	cursor: pointer;
+	font-weight: bold;
+}
+.hexBtn:hover{
+	background-color: goldenrod;
+	color: hotpink
+}
